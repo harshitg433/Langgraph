@@ -1,0 +1,18 @@
+# Core dependencies
+streamlit>=1.22.0
+langchain>=0.0.267
+langchain-groq>=0.0.1
+langchain-openai>=0.0.2
+langgraph>=0.0.20
+chromadb>=0.4.18
+llama-index>=0.9.13
+llama-index-vector-stores-chroma>=0.1.5
+python-dotenv>=1.0.0
+typing-extensions>=4.5.0
+
+# PDF processing
+unstructured>=0.10.30
+unstructured-inference>=0.7.30
+pdf2image>=1.16.3
+pdfminer.six>=20221105
+pillow-heif>=0.13.0
